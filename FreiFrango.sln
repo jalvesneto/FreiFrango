@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreiFrango.WebApi", "FreiFrango.WebApi\FreiFrango.WebApi.csproj", "{D89ECBCC-4E0B-4D7C-8B1E-7FAA4978B1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreiFrango.DAL", "FreiFrango.DAL\FreiFrango.DAL.csproj", "{62690EAB-3D32-4AA2-A718-6E2CA66BAE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89ECBCC-4E0B-4D7C-8B1E-7FAA4978B1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89ECBCC-4E0B-4D7C-8B1E-7FAA4978B1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89ECBCC-4E0B-4D7C-8B1E-7FAA4978B1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89ECBCC-4E0B-4D7C-8B1E-7FAA4978B1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62690EAB-3D32-4AA2-A718-6E2CA66BAE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62690EAB-3D32-4AA2-A718-6E2CA66BAE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62690EAB-3D32-4AA2-A718-6E2CA66BAE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62690EAB-3D32-4AA2-A718-6E2CA66BAE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678A14CA-1340-4180-BB71-2FC647C60B09}
+	EndGlobalSection
+EndGlobal
